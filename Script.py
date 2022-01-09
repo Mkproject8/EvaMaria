@@ -4,26 +4,26 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+🔥 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/mksupport1>MK SUPPORT</a>
+🔥 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+🔥 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+🔥 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: ᏢᎡᏆᏙᎪͲᎬ
+🔥 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: ᏢᎡᏆᏙᎪͲᎬ
+🔥 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v6.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+-ᎷᏦ ᏆՏ Ꭺ ᏢᎡᏆᏙᎪͲᎬ ᏢᎡϴᎫᎬᏟͲ 💻. 
+ 
 
 <b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+- <a href=https://t.me/mksupport1>MK SUPPORT</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- ҒᏆᏞͲᎬᎡ ᏆՏ ͲᎻᎬ ҒᎬᎪͲႮᎡᎬ ᏔᎬᎡᎬ ႮՏᎬᎡՏ ᏟᎪΝ ՏᎬͲ ᎪႮͲϴᎷᎪͲᎬᎠ ᎡᎬᏢᏞᏆᎬՏ ҒϴᎡ Ꭺ ᏢᎪᎡͲᏆᏟႮᏞᎪᎡ ᏦᎬᎽᏔϴᎡᎠ ᎪΝᎠ ᎷᏦᏔᏆᏞᏞ ᎡᎬՏᏢϴΝᎠ ᏔᎻᎬΝᎬᏙᎬᎡ Ꭺ ᏦᎬᎽᏔϴᎡᎠ ᏆՏ ҒϴႮΝᎠ ͲᎻᎬ ᎷᎬՏՏᎪᏀᎬ
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+1. ᎷᏦ ՏᎻϴႮᏞᎠ ᎻᎪᏙᎬ ᎪᎠᎷᏆΝ ᏢᎡᏆᏙᏆᏞᏞᎪᏀᎬ.
+2. ϴΝᏞᎽ ᎷᏦ ᏟᎪΝ ᎪᎠᎠ ҒᏆᏞͲᎬᎡՏ ᏆΝ Ꭺ ᏟᎻᎪͲ.
+3. ᎪᏞᎬᎡͲ ᏴႮͲͲϴΝՏ ᎻᎪᏙᎬ Ꭺ ᏞᏆᎷᏆͲ ϴҒ 64 .
 
 <b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
@@ -32,25 +32,25 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Eva Maria Supports both url and alert inline buttons.
+- ᎷᏦ ՏႮᏢᏢϴᎡͲՏ ᏴϴͲᎻ ႮᎡᏞ ᎪΝᎠ ᎪᏞᎬᎡͲ ᏆΝᏞᏆΝᎬ ᏴႮͲͲϴΝՏ.
+
 
 <b>NOTE:</b>
-1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
-3. Buttons should be properly parsed as markdown format
-
+1. 1.ͲᎬᏞᎬᏀᎡᎪᎷ ᏔᏆᏞᏞ ΝϴͲ ᎪᏞᏞϴᏔՏ ᎽϴႮ Ͳϴ ՏᎬΝᎠ ᏴႮͲͲϴΝՏ ᏔᏆͲᎻϴႮͲ ᎪΝᎽ ᏟϴΝͲᎬΝͲ, Տϴ ᏟϴΝͲᎬΝͲ ᏆՏ ᎷᎪΝᎠᎪͲϴᎡᎽ.
+2. ᎷᏦ  ՏႮᏢᏢϴᎡͲՏ ᏴႮͲͲϴΝՏ ᏔᏆͲᎻ ᎪΝᎽ ͲᎬᏞᎬᏀᎡᎪᎷ ᎷᎬᎠᏆᎪ ͲᎽᏢᎬ.
+3. ᏴႮͲͲϴΝՏ ՏᎻϴႮᏞᎠ ᏴᎬ ᏢᎡϴᏢᎬᎡᏞᎽ ᏢᎪᎡՏᎬᎠ ᎪՏ ᎷᎪᎡᏦᎠϴᏔΝ ҒϴᎡᎷᎪͲ.
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/mksupport1)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
-1. Make me the admin of your channel if it's private.
-2. make sure that your channel does not contains camrips, porn and fake files.
-3. Forward the last message to me with quotes.
- I'll add all the files in that channel to my db."""
+1. ᎷᎪᏦᎬ ᎷᎬ ͲᎻᎬ ᎪᎠᎷᏆΝ ϴҒ ᎽϴႮᎡ ᏟᎻᎪΝΝᎬᏞ ᏆҒ ᏆͲ'Տ ᏢᎡᏆᏙᎪͲᎬ.
+2. ᎷᎪᏦᎬ ՏႮᎡᎬ ͲᎻᎪͲ ᎽϴႮᎡ ᏟᎻᎪΝΝᎬᏞ ᎠϴᎬՏ ΝϴͲ ᏟϴΝͲᎪᏆΝՏ ᏟᎪᎷᎡᏆᏢՏ, ᏢϴᎡΝ ᎪΝᎠ ҒᎪᏦᎬ ҒᏆᏞᎬՏ.
+3. ҒϴᎡᏔᎪᎡᎠ ͲᎻᎬ ᏞᎪՏͲ ᎷᎬՏՏᎪᏀᎬ Ͳϴ ᎷᎬ ᏔᏆͲᎻ ϘႮϴͲᎬՏ.
+ Ꮖ'ᏞᏞ ᎪᎠᎠ ᎪᏞᏞ ͲᎻᎬ ҒᏆᏞᎬՏ ᏆΝ ͲᎻᎪͲ ᏟᎻᎪΝΝᎬᏞ Ͳϴ ᎷᎽ ᎠᏴ.""'
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
